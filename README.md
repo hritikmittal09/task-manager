@@ -21,4 +21,6 @@ To deploy this project run
   https://hritikmittal09.github.io/task-manager/ 
 
 ```
+output
+![task manager](https://user-images.githubusercontent.com/84908425/193866166-c0985319-c4f7-408c-b854-759a268968e7.JPG)
 
